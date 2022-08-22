@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JBD84
-- 👀 I’m interested in try to change the world to a better place for my little dauther
-- 🌱 I’m currently learning "C" 
-- 💞️ I’m looking to collaborate on everythink that help me to learn more and blockchain
+- 👋 Hi, I’m @Javier Bambaren D. CEO & Co Founder Reality Near Metaverse.
+- 👀 I’m interested in try to change the world to a better place for everyone.
+- 🌱 I’m currently learning "C", "JavaScript", "Html", "Css", "Rust", "Python", others. 
+- 💞️ I’m looking to collaborate on everythink that help me to learn more on the Blockchain
 - 📫 How to reach me bambaja@icloud.com
 
 <!---
